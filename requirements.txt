@@ -1,0 +1,4 @@
+python-telegram-bot[job-queue]
+requests
+matplotlib
+beautifulsoup4
